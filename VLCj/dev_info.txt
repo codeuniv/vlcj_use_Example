@@ -24,13 +24,6 @@ VideoLAN VLC - all versions (32 / 64 bit)
 
 https://habr.com/ru/post/434126/
 
-NEED
-jna-3.5.2.jar
-platform-3.5.2.jar
-slf4j-api-1.7.24.jar
-lib/vlcj-3.12.1.jar
-
-
 ***********
 
 https://github.com/caprica/vlcj
